@@ -1,4 +1,4 @@
-This is the genesis of a CRT temporal simulation shader, created by Mark Rejhon (@BlurBusters) and Timothy Lottes (@NOTimothyLottes).
+This is the genesis of a CRT temporal simulation shader, created by Mark Rejhon (@BlurBusters) and Timothy Lottes (@NOTimothyLottes) and ported to HLSL by (@TheHybred)
 
 See the comments at the top of the shader file.
 
